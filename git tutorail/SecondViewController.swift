@@ -11,7 +11,7 @@ class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("hello new class")
+        print("hello new branch class")
         // Do any additional setup after loading the view.
     }
     
